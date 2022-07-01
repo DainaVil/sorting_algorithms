@@ -1,3 +1,3 @@
-# Visualisation of sort algorithms using Python tkinter
+# Visualisation of sorting algorithms using Python tkinter
 
 
